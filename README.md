@@ -6,3 +6,5 @@ This folder contains my practice exercises and implementations focusing on NumPy
 
 Pandas Practice
 This folder showcases my Pandas proficiency in data manipulation and analysis. Includes exercises on DataFrames, Series, indexing, selection, filtering, grouping, merging, and handling missing data. Essential skills for transforming raw data into actionable insights.
+
+DataVisualization Using Matplotlib
