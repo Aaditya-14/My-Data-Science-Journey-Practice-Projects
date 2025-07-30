@@ -1,0 +1,10 @@
+OrderID,Date,Region,SalesPerson,Product,Units,UnitPrice,Revenue
+1001,2024-01-05,East,Alice,Laptop,2,900,1800
+1002,2024-01-07,West,Bob,Monitor,4,150,600
+1003,2024-01-08,East,Alice,Mouse,10,25,250
+1004,2024-01-10,South,David,Laptop,1,920,920
+1005,2024-01-12,North,Eve,Monitor,3,160,480
+1006,2024-01-13,West,Bob,Mouse,8,22,176
+1007,2024-01-15,East,Alice,Laptop,1,950,950
+1008,2024-01-17,South,David,Mouse,6,20,120
+1009,2024-01-20,North,Eve,Laptop,2,910,1820

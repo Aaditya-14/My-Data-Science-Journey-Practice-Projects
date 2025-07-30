@@ -1,0 +1,11 @@
+EmployeeID,FirstName,LastName,Gender,Department,JoinDate,Salary,Age,Location
+E001,John,Doe,Male,IT,2019-03-15,55000,28,New York
+E002,Jane,Smith,Female,HR,2020-06-20,48000,32,Los Angeles
+E003,Alice,Johnson,Female,Marketing,2018-11-10,62000,41,Chicago
+E004,Robert,Brown,Male,Finance,2021-01-05,73000,36,Houston
+E005,Michael,Davis,Male,IT,2017-09-12,69000,45,New York
+E006,Linda,Miller,Female,Marketing,2022-02-14,52000,29,San Francisco
+E007,David,Wilson,Male,HR,2020-04-22,50000,31,Los Angeles
+E008,Susan,Moore,Female,Finance,2019-12-03,71000,38,Dallas
+E009,James,Taylor,Male,IT,2023-03-18,58000,27,New York
+E010,Karen,Anderson,Female,HR,2016-08-25,46000,40,Chicago

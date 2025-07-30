@@ -1,0 +1,24 @@
+Name,Age,Gender,Email,City,Salary,JoinDate
+John Doe,29.0,Male,john.doe@gmail.com,New York,55000.0,2021-05-14
+Jane Smith,,FEMALE,jane.smith@outlook.com,los angeles,62000.0,2019-03-21
+Mike Taylor,34.0,Male,miketaylor@gmail,Chicago,,2020-07-01
+Anna Lee,27.0,female,anna_lee@yahoo.com,Boston,54000.0,2022-08-12
+Chris Brown,,Male,,Houston,58000.0,2021-01-30
+Emily Davis,45.0,Female,emily.davis@domain,Miami,70000.0,2018-11-25
+Robert King,38.0,male,robert.king@gmail.com,Dallas,,2020-12-10
+Sara Khan,31.0,,sarakhan@@mail.com,Atlanta,61000.0,2022-02-18
+Steve Jobs,,Male,steve.jobs@apple.com,,65000.0,2017-06-05
+Lara Croft,26.0,FEMALE,lara.croft@gmail.com,Seattle,59000.0,2023-01-09
+Tony Stark,48.0,Male,tony@starkindustries.com,new york,150000.0,2015-04-22
+Bruce Wayne,35.0,,bruce.wayne@wayne.com,Gotham,120000.0,2016-12-30
+Clark Kent,33.0,Male,clark.kent@dailyplanet.com,Metropolis,115000.0,2017-07-07
+Peter Parker,,Male,peter@marvel.com,Queens,68000.0,2019-09-15
+Diana Prince,28.0,Female,,Themyscira,,2020-11-01
+Barry Allen,32.0,Male,barry.allen@speed.com,central city,72000.0,2018-03-03
+Natasha Romanoff,,FEMALE,natasha@shield.com,Moscow,75000.0,2020-10-12
+Wanda Maximoff,30.0,Female,,Sokovia,,2021-08-19
+Vision,,Male,vision@avengers.com,,82000.0,2019-06-06
+Nick Fury,55.0,Male,nick.fury@shield.org,Washington,95000.0,2015-10-31
+Mike Taylor,34.0,Male,miketaylor@gmail,Chicago,,2020-07-01
+Emily Davis,45.0,Female,emily.davis@domain,Miami,70000.0,2018-11-25
+Tony Stark,48.0,Male,tony@starkindustries.com,new york,150000.0,2015-04-22

@@ -1,0 +1,11 @@
+EmployeeID,Name,Age,Gender,Department,Position,Salary,YearsExperience,Location,Remote
+1001,Alice Johnson,28,F,Engineering,Software Engineer,85000,3,New York,Yes
+1002,Bob Smith,35,M,Marketing,SEO Specialist,62000,7,Chicago,No
+1003,Charlie Evans,45,M,HR,HR Manager,78000,15,San Francisco,No
+1004,Diana Lee,30,F,Engineering,DevOps Engineer,92000,5,Austin,Yes
+1005,Ethan Clark,26,M,Sales,Sales Executive,54000,2,Boston,No
+1006,Fatima Khan,32,F,Marketing,Content Writer,60000,6,Seattle,Yes
+1007,George Martin,40,M,Engineering,Team Lead,105000,12,New York,No
+1008,Hannah Brown,29,F,Sales,Account Manager,58000,4,Denver,Yes
+1009,Ian Wilson,38,M,Engineering,QA Engineer,73000,10,Chicago,No
+1010,Julia White,27,F,HR,Recruiter,57000,3,Los Angeles,Yes
